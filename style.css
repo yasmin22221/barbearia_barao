@@ -1,0 +1,24 @@
+body {
+background: red;
+color: white;
+magin:0px;
+
+}
+header{
+border-bottom: solid 10px black;
+padding: 20px;
+font-size: 32px;
+color:
+
+
+}
+
+section {
+  background: red;
+  padding-top : 80px;
+  padding-bottom: 80px;
+  display:flex;
+  justify-content: center;
+
+}
+
