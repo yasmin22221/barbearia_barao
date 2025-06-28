@@ -2,13 +2,13 @@ body {
 background: red;
 color: white;
 magin:0px;
-
+font-family: "Fira Sans", sans-serif;
 }
 header{
 border-bottom: solid 10px black;
 padding: 20px;
 font-size: 32px;
-color:
+color: pink
 
 
 }
@@ -22,3 +22,6 @@ section {
 
 }
 
+.chamada-texto{
+  margin-right: 5%;
+}
