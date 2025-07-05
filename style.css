@@ -5,7 +5,7 @@ magin:0px;
 font-family: "Fira Sans", sans-serif;
 }
 header{
-border-bottom: solid 10px black;
+border-bottom: solid 10px rgb(54, 5, 5);
 padding: 20px;
 font-size: 32px;
 color: pink
@@ -24,4 +24,7 @@ section {
 
 .chamada-texto{
   margin-right: 5%;
+}
+h1 {
+  font-size: 40px;
 }
